@@ -1,2 +1,2 @@
 # OfflineLLMTranslate
-Leverage Large Language Models to do machine translation tasks.
+Leverage Large Language Models to do machine translation tasks on premise
